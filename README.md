@@ -1,2 +1,1 @@
-ML stand alone project team A
-FIUS Project 2
+ML stand-alone project team A (FIUS Project 2)
