@@ -1,0 +1,2 @@
+ADC 400 around 6 min
+FFT 400 around 35 sec
