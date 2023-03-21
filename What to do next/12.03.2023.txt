@@ -1,0 +1,9 @@
+1) I have puted all the datas inside the Input data folder
+2) I have Wrote the code to turn whole of the text files inside the data folder to the CSV files
+
+
+
+
+..................................
+Need to do:
+1) delete the first line(Header line from it)
